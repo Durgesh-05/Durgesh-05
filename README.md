@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Durgesh-05
 - 👀 I’m interested in Coding, Designing, Learning.
 - 🌱 I’m currently learning Figma.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📧 durgesh.d1805@gmail.com 
 - 
 
