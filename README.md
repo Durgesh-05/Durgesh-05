@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJS & NextJS<br><br>📫 How to reach me :- durgesh.d1805@gmail.com<br><br>⚡ Fun fact :- I think I am Funny
+🌱 I’m currently learning Advanced Web Dev & Web3<br><br>📫 How to reach me :- durgesh.d1805@gmail.com<br><br>⚡ Fun fact :- I think I am Funny
 
 
 ## 🌐 Socials:
