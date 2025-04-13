@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Fullstack Developer from Mumbai, I'm Comfortable in MERN & NextJS related Tech Stack. <br> Email: durgesh.d1805@gmail.com
+I'm a Fullstack Developer from Mumbai, I'm Comfortable in MERN & NextJS related Tech Stack. Freelancer <br> Email: durgesh.d1805@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic)](https://instagram.com/wsr_durgesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/durgesh-dubey18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=plastic)](https://x.com/d_dubey18) 
